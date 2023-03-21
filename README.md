@@ -24,7 +24,14 @@ axel.lindqvist@hotmail.se or axlindq@kth.se
 
 
 
-# Here are some noteworthy projects for each: 
+# Here are some noteworthy projects: 
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ProgrammingCookies&repo=Connect_Four_AI_Project"/>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ProgrammingCookies&repo=Particle_and_concurrent_calculations"/>
+
+
+
 
 
 <!--
