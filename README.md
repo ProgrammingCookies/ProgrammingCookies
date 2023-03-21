@@ -24,15 +24,6 @@ axel.lindqvist@hotmail.se or axlindq@kth.se
 
 
 
-# Here are some noteworthy projects: 
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ProgrammingCookies&repo=Connect_Four_AI_Project"/><img src="https://github-readme-stats.vercel.app/api/pin/?username=ProgrammingCookies&repo=Particle_and_concurrent_calculations"/>
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ProgrammingCookies&repo=Task_2_Data_Storage_Paradigms"/>
-
-
-
-
 <!--
 **ProgrammingCookies/ProgrammingCookies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
