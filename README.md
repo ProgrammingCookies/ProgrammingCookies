@@ -7,11 +7,6 @@ I have about 4 years experience with programming as I have used it in my studies
 
 Here at my Github profile you can see some of the programming assignments I have worked on throughout the years, which courses I am currently enrolled in as well as which programming languages I am familiar with.
 
-# Courses I'm currently enrolled in
-
-* Project in Information and Communication Technology II1305
-* Modern Software Development IV1303
-
 # Contact:
 
 axel.lindqvist@hotmail.se or axlindq@kth.se
