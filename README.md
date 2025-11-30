@@ -1,7 +1,7 @@
 ### Welcome to Axel Lindqvist Github!
 
-Thank you for visiting my profile! I am an Information and Communication Technology Engineering student at KTH Royal Institute of Technology currently on my second year. 
-I have about 4 years experience with programming as I have used it in my studies at KTH and in high school. 
+Thank you for visiting my profile! I am an Information and Communication Technology Engineering student at KTH Royal Institute of Technology currently on my fifth year, about to finish my Master's degree in Machine Learning. 
+I have about 8 years experience with programming as I have used it in my studies at KTH and in high school. 
 
 # What you as a visitor can see here
 
